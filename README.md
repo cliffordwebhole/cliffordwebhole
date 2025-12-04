@@ -71,3 +71,9 @@ Self-hosted WordPress system for beekeeping and homesteading content.
 ## 🚀 Powered by **Clifford’s Webhole**
 Developer • AI Systems • Linux • Automation • Homesteading  
 If you like my projects, feel free to ⭐ and follow!
+
+## 📊 GitHub Stats
+
+![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordwebhole&layout=compact&theme=tokyonight&hide_border=true)
