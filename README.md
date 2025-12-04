@@ -29,7 +29,15 @@ My work blends **technology + homesteading + art**, all connected through custom
 - 🦌 **Digital Media Pipelines**  
   Automated publishing through AI for TaxidermyJournal.com.
 
+...
+
+## 🐍 Contribution Snake  
+![GitHub Snake Light](https://github.com/cliffordwebhole/cliffordwebhole/blob/output/github-contribution-grid-snake.svg)
+
 ---
+
+## 🛠️ Tech & Tools I Use
+...
 
 ## 🛠️ Tech Stack I Use Daily
 
