@@ -72,6 +72,10 @@ Self-hosted WordPress system for beekeeping and homesteading content.
 Developer • AI Systems • Linux • Automation • Homesteading  
 If you like my projects, feel free to ⭐ and follow!
 
+## 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/cliffordwebhole/cliffordwebhole/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats
 
 ![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true)
