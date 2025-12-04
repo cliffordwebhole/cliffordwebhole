@@ -78,8 +78,7 @@ Self-hosted WordPress system for beekeeping and homesteading content.
 
 ## 📫 Connect With Me
 
-🌐 Official Website: https://cliffordswebhole.com  
----
+🌐 Official-- https://www.linkedin.com/in/clifford-webhole/
 
 ## 🚀 Powered by **Clifford’s Webhole**
 Developer • AI Systems • Linux • Automation • Homesteading  
