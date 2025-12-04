@@ -27,7 +27,7 @@ My work blends **technology + homesteading + art**, all connected through custom
   Automation & digital systems for beekeeping, gardening, and content workflows.
 
 - 🦌 **Digital Media Pipelines**  
-  Automated publishing through AI for TaxidermyJournal.com.
+  Automated publishing through AI for WordPress Self Hosted.
 
 ...
 
