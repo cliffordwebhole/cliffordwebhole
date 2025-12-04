@@ -1,16 +1,73 @@
-## Hi there 👋
+![Profile Banner](./banner.png)
 
-<!--
-**cliffordwebhole/cliffordwebhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Clifford — creator of **Clifford’s Webhole**
+### Developer • Linux Admin • Self-Hosted AI Engineer • • Beekeeper & Homesteader
 
-Here are some ideas to get you started:
+I build automated systems, AI-driven workflows, and full WordPress/Docker stacks that power my online brand **Clifford’s Webhole**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work blends **technology + homesteading + art**, all connected through custom-built infrastructure and self-hosted tools.
+
+---
+
+## 🚀 What I Build
+
+- 🧠 **AI Automation Pipelines**  
+  n8n workflows, OpenRouter integrations, custom agents, and multi-model processes.
+
+- 🔧 **Secure VPS & Docker Environments**  
+  Multi-site stacks, reverse proxies, UFW security, tunneling, SSL, databases.
+
+- 🌐 **WordPress Systems**  
+  Theme creation, optimization, database control, Docker hosting, backups.
+
+- 🧪 **Self-Hosted AI Labs**  
+  Custom agent frameworks powering labs.cliffordswebhole.com.
+
+- 🐝 **Homesteading Tech**  
+  Automation & digital systems for beekeeping, gardening, and content workflows.
+
+- 🦌 **Digital Media Pipelines**  
+  Automated publishing through AI for TaxidermyJournal.com.
+
+---
+
+## 🛠️ Tech Stack I Use Daily
+
+**Operating Systems:**  
+`Linux` `Ubuntu` `Termux` `Android Dev Environments`
+
+**DevOps & Server Tools:**  
+`Docker` `Docker Compose` `Nginx Proxy Manager` `UFW` `Cron`
+
+**Web Development:**  
+`WordPress` `PHP` `MySQL` `HTML` `CSS` `Custom Themes`
+
+**AI & Automation:**  
+`n8n` `OpenRouter` `Claude` `Ollama` `Python` `API Workflows`
+
+**Backup & Cloud:**  
+`Backblaze B2` `rclone`
+
+---
+
+## 📌 Featured Projects (Pinned Repositories)
+
+### 🔥 **AI-Powered Auto Poster for WordPress (n8n Workflow)**  
+Automated AI workflow that pulls RSS data, transforms content, and publishes directly to WordPress.
+
+### 🧬 AI Lab Platform (FastAPI + Docker)  
+Homegrown multi-agent system built to run custom AI experiments.
+
+### 🐝 BeeBuzzGardens Stack  
+Self-hosted WordPress system for beekeeping and homesteading content.
+
+---
+
+## 📫 Connect With Me
+
+🌐 Official Website: https://cliffordswebhole.com  
+---
+
+## 🚀 Powered by **Clifford’s Webhole**
+Developer • AI Systems • Linux • Automation • Homesteading  
+If you like my projects, feel free to ⭐ and follow!
