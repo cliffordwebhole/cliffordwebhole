@@ -37,7 +37,12 @@ My work blends **technology + homesteading + art**, all connected through custom
 ---
 
 ## 🛠️ Tech & Tools I Use
-...
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,wordpress,php,mysql,html,css,python,bash,github,vscode,cloudflare" />
+
+</div>
 
 ## 🛠️ Tech Stack I Use Daily
 
@@ -87,3 +92,5 @@ If you like my projects, feel free to ⭐ and follow!
 ![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordwebhole&layout=compact&theme=tokyonight&hide_border=true)
+
+![Visitors](https://komarev.com/ghpvc/?username=cliffordwebhole&color=blueviolet&style=flat)
