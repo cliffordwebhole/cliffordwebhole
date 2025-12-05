@@ -1,95 +1,93 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3b82f6&height=180&section=header&text=Clifford%20Webhole&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+</p>
+
+---
 ![Profile Banner](./banner.png)
 
-# 👋 Hi, I'm Clifford — creator of **Clifford’s Webhole**
-### Developer • Linux Admin • Self-Hosted AI Engineer • • Beekeeper & Homesteader
+### 👋 Hey, I’m **Clifford**  
+Builder of **Clifford’s Webhole**, architect of self-hosted systems, and creator of multi-site WordPress environments, AI automations, and distributed content pipelines.
 
-I build automated systems, AI-driven workflows, and full WordPress/Docker stacks that power my online brand **Clifford’s Webhole**.  
-
-My work blends **technology + homesteading + art**, all connected through custom-built infrastructure and self-hosted tools.
+I specialize in blending **web development**, **Linux server engineering**, **Docker DevOps**, and **AI automation** into one connected digital ecosystem.
 
 ---
 
-## 🚀 What I Build
-
-- 🧠 **AI Automation Pipelines**  
-  n8n workflows, OpenRouter integrations, custom agents, and multi-model processes.
-
-- 🔧 **Secure VPS & Docker Environments**  
-  Multi-site stacks, reverse proxies, UFW security, tunneling, SSL, databases.
-
-- 🌐 **WordPress Systems**  
-  Theme creation, optimization, database control, Docker hosting, backups.
-
-- 🧪 **Self-Hosted AI Labs**  
-  Custom agent frameworks powering labs.cliffordswebhole.com.
-
-- 🐝 **Homesteading Tech**  
-  Automation & digital systems for beekeeping, gardening, and content workflows.
-
-- 🦌 **Digital Media Pipelines**  
-  Automated publishing through AI for WordPress Self Hosted.
-
-...
-
-## 🐍 Contribution Snake  
-![GitHub Snake Light](https://github.com/cliffordwebhole/cliffordwebhole/blob/output/github-contribution-grid-snake.svg)
+## ⚡ **What I Do**
+- 🧩 **Build & maintain a full VPS infrastructure** (Ubuntu 24.04, Docker, Nginx Proxy Manager, UFW)
+- 🕸️ **Develop & manage multiple WordPress platforms** (custom themes, backups, migrations, automation)
+- 🤖 **Run a self-hosted AI Lab** at `labs.cliffordswebhole.com` (FastAPI, custom agents, n8n flows)
+- ☁️ **Automate content across my ecosystem** with n8n + OpenRouter
+- 🔐 **Implement strong backup & security workflows** (Bash, cron, Backblaze B2, rclone)
+- 💻 **Code daily across Linux, Android Termux, and cloud platforms**
+- 🌱 **Beekeeper & gardener — the offline part of Clifford’s Webhole**
 
 ---
 
-## 🛠️ Tech & Tools I Use
+## 🛠️ **Tech Stack & Tools I Use**
 
-<div align="center">
-  
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,wordpress,php,mysql,html,css,python,bash,github,vscode,cloudflare" />
+### **Languages**
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Bash` · `SQL`  
 
-</div>
+### **Platforms & Systems**
+`Ubuntu 24.04` · `Docker` · `Nginx Proxy Manager` · `UFW` · `Termux`  
 
-## 🛠️ Tech Stack I Use Daily
+### **Web Development**
+`WordPress` · `Custom Themes` · `WP-CLI` · `Site Migrations`  
 
-**Operating Systems:**  
-`Linux` `Ubuntu` `Termux` `Android Dev Environments`
+### **AI & Automation**
+`FastAPI` · `Ollama` · `OpenRouter` · `n8n` · `Custom Agents`  
 
-**DevOps & Server Tools:**  
-`Docker` `Docker Compose` `Nginx Proxy Manager` `UFW` `Cron`
-
-**Web Development:**  
-`WordPress` `PHP` `MySQL` `HTML` `CSS` `Custom Themes`
-
-**AI & Automation:**  
-`n8n` `OpenRouter` `Claude` `Ollama` `Python` `API Workflows`
-
-**Backup & Cloud:**  
-`Backblaze B2` `rclone` `Cloudflare`
+### **Backup / DevOps**
+`Backblaze B2` · `rclone` · `cron` · `msmtp` · `Shell scripting`  `Cloudflare`
 
 ---
 
-## 📌 Featured Projects (Pinned Repositories)
+## 📌 **Featured Projects**
 
-### 🔥 **AI-Powered Auto Poster for WordPress (n8n Workflow)**  
-Automated AI workflow that pulls RSS data, transforms content, and publishes directly to WordPress.
+### 🔹 **Clifford’s Webhole (Main Site)**  
+Your personal hub for coding, AI, security, and everything digital.
 
-### 🧬 AI Lab Platform (FastAPI + Docker)  
-Homegrown multi-agent system built to run custom AI experiments.
+### 🔹 **BeeBuzzGardens.com**  
+A growing beekeeping + homesteading platform with seasonal content.
 
-### 🐝 BeeBuzzGardens Stack  
-Self-hosted WordPress system for beekeeping and homesteading content.
+### 🔹 **Webhole Labs (AI Playground)**  
+Your custom self-hosted AI stack experimenting with multi-agent systems.
+
+### 🔹 **n8n Auto-Poster System**  
+Automated RSS → WordPress pipeline with tag + category routing.
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordwebhole&theme=tokyonight&hide_border=true" />
+</p>
 
-🌐 Official-- https://www.linkedin.com/in/clifford-webhole/
+---
 
-## 🚀 Powered by **Clifford’s Webhole**
-Developer • AI Systems • Linux • Automation • Homesteading  
-If you like my projects, feel free to ⭐ and follow!
+## 🐍 Activity Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cliffordwebhole/cliffordwebhole/output/snake.svg" />
+</p>
 
-## 🐍 Contribution 
+---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/clifford-webhole/">🌐 LinkedIn</a> · 
+  <a href="https://youtube.com/@cliffordswebhole">📺 YouTube</a> ·
+  <a href="https://www.instagram.com/beebuzzgardens">📸 Instagram</a> ·
+  <a href="https://www.tiktok.com/@beebuzzgardens">🎵 TikTok</a>
+</p>
 
-![Clifford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cliffordwebhole&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <sub>⚡ Powered by Clifford’s Webhole • Built on Linux • Fueled by Coffee & Curiosity</sub>
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=cliffordwebhole&color=blueviolet&style=flat)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111111&height=120&section=footer"/>
+</p>
