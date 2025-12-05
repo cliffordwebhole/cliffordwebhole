@@ -82,11 +82,105 @@ Automated RSS → WordPress pipeline with tag + category routing.
 </p>
 
 ---
+## 🧭 Mission Statement
+I build reliable, self-hosted systems that connect the digital and real world.  
+My mission is to create a unified ecosystem — servers, AI agents, automations, and websites —  
+all powered by Clifford’s Webhole and always under my control.
 
-<p align="center">
+I believe in:
+- Owning my infrastructure  
+- Automating everything  
+- Learning relentlessly  
+- Sharing what I build
+---
+## 🔥 What I'm Working on Right Now
+- Upgrading **Webhole Labs** with faster agent routing and new model integrations  
+- Improving multi-site backups with rclone + B2 retention automation  
+- Expanding my **n8n WordPress Auto-Poster** into a full content automation pipeline  
+- Refining dark-themed web components for Clifford’s Webhole  
+- Building stronger GitHub branding and documentation for my projects
+---
+## 🧠 Current Focus Areas
+- AI agents & workflow automation  
+- VPS performance tuning (Ubuntu 24.04 + Docker)  
+- WordPress architecture & custom theme development  
+- Network security and server hardening  
+- Optimizing mobile-Termux Linux workflows
+---
+## 🚀 Flagship Repositories
+
+### 🔹 n8n Auto Poster to WordPress
+Automates publishing from RSS feeds to WordPress, complete with category routing.
+
+### 🔹 Webhole Labs
+Custom AI agent environment using FastAPI, Ollama, and OpenRouter integrations.
+
+### 🔹 Clifford’s Webhole (Main Site Theme)
+Dark, clean, custom-tailored theme powering the digital home of Clifford Webhole.
+
+### 🔹 BeeBuzzGardens
+Automation-ready WordPress platform for beekeeping content and seasonal posts.
+
+---
+## 🧩 My Developer Philosophy
+- Keep it simple, but powerful  
+- Build systems that run themselves  
+- Self-hosting > depending on platforms  
+- Logs and backups are your best friends  
+- Security first — always
+
+  ---
+  ## ⚙️ Tools I Use Daily
+- **Termux** (Android Linux environment)
+- **Docker & Docker Compose**
+- **Nginx Proxy Manager**
+- **VS Code / nano / vim**
+- **Git & GitHub Actions**
+- **FastAPI**
+- **n8n**
+- **Backblaze B2 + rclone**
+
+ ---
+ ## 🌐 Ecosystem Architecture (Simplified)
+
+Clifford's Webhole Ecosystem consists of:
+
+- **1 VPS running Ubuntu 24.04**
+- Multiple Docker stacks:
+  - WordPress sites
+  - Databases
+  - Webhole Labs AI stack
+  - n8n automation engine
+- **Daily backup system** (local + cloud copies)
+- **Reverse proxy routing** for all domains/subdomains
+- **Firewall-tightened network with custom rules**
+  <p align="center">
   <sub>⚡ Powered by Clifford’s Webhole • Built on Linux • Fueled by Coffee & Curiosity</sub>
 </p>
+---
+## 📚 Favorite Commands & Snippets
 
+# restart docker stack
+docker compose down && docker compose up -d
+
+# inspect docker networks
+docker network inspect proxy-net
+
+# view logs live
+docker logs -f container_name
+
+# quick mysql access
+docker exec -it db-container mysql -u root -p
+
+# backup WordPress
+wp db export backup.sql && tar -czvf site.tar.gz /var/www/html
+---
+## 🎯 Goals for 2026
+- Expand Webhole Labs with custom multi-agent routing  
+- Create a unified cross-site content engine powered by n8n  
+- Build a full set of branded Webhole utilities & scripts  
+- Develop at least one public developer tool or library  
+- Grow Clifford’s Webhole into a recognized online identity
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111111&height=120&section=footer"/>
 </p>
