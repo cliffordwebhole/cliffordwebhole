@@ -66,10 +66,10 @@ Automated RSS → WordPress pipeline with tag + category routing.
 </p>
 
 ---
+## 🐍 Contribution Snake
 
-## 🐍 Activity Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cliffordwebhole/cliffordwebhole/output/snake.svg" />
+  <img src="https://github.com/cliffordwebhole/cliffordwebhole/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
