@@ -69,7 +69,7 @@ Automated RSS → WordPress pipeline with tag + category routing.
 
 ## 🐍 Activity Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cliffordwebhole/cliffordwebhole/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/cliffordwebhole/cliffordwebhole/.github/workflows/snake.svg" />
 </p>
 
 ---
