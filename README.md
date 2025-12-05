@@ -154,10 +154,7 @@ Clifford's Webhole Ecosystem consists of:
 - **Daily backup system** (local + cloud copies)
 - **Reverse proxy routing** for all domains/subdomains
 - **Firewall-tightened network with custom rules**
-  <p align="center">
-  <sub>⚡ Powered by Clifford’s Webhole • Built on Linux • Fueled by Coffee & Curiosity</sub>
-</p>
----
+  ---
 ## 📚 Favorite Commands & Snippets
 
 # restart docker stack
@@ -183,4 +180,7 @@ wp db export backup.sql && tar -czvf site.tar.gz /var/www/html
 - Grow Clifford’s Webhole into a recognized online identity
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111111&height=120&section=footer"/>
+</p>
+<p align="center">
+  <sub>⚡ Powered by Clifford’s Webhole • Built on Linux • Fueled by Coffee & Curiosity</sub>
 </p>
