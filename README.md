@@ -77,8 +77,8 @@ Automated RSS → WordPress pipeline with tag + category routing.
 <p align="center">
   <a href="https://www.linkedin.com/in/clifford-webhole/">🌐 LinkedIn</a> · 
   <a href="https://youtube.com/@cliffordswebhole">📺 YouTube</a> ·
-  <a href="https://www.instagram.com/beebuzzgardens">📸 Instagram</a> ·
-  <a href="https://www.tiktok.com/@beebuzzgardens">🎵 TikTok</a>
+  <a href="https://www.instagram.com/cliffordswebhole">📸 Instagram</a> ·
+  <a href="https://www.tiktok.com/@cliffordswebhole">🎵 TikTok</a>
 </p>
 
 ---
