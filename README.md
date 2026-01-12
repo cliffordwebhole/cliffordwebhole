@@ -7,7 +7,7 @@
 ![Profile Banner](./banner.png)
 
 ### 👋 Hey, I’m **Clifford**  
-Builder of **Clifford’s Webhole**, architect of self-hosted systems, and creator of multi-site WordPress environments, AI automations, and distributed content pipelines.
+Builder of **Clifford’s Webhole**, architect of self-hosted systems, and creator of WebholeInk along with multi-site WordPress environments, AI automations, and distributed content pipelines.
 
 I specialize in blending **web development**, **Linux server engineering**, **Docker DevOps**, and **AI automation** into one connected digital ecosystem.
 
