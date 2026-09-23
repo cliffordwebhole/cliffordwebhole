@@ -4,183 +4,398 @@
 </p>
 
 ---
+
 ![Profile Banner](./banner.png)
 
-### 👋 Hey, I’m **Clifford**  
-Builder of **Clifford’s Webhole**, architect of self-hosted systems, and creator of WebholeInk along with multi-site WordPress environments, AI automations, and distributed content pipelines.
+### 👋 Hey, I’m **Clifford**
 
-I specialize in blending **web development**, **Linux server engineering**, **Docker DevOps**, and **AI automation** into one connected digital ecosystem.
+Builder of **Clifford’s Webhole** — my corner of the internet for building, experimenting, breaking things, fixing them, and learning along the way.
 
----
+I'm a web developer and self-hosting enthusiast building projects including **WebholeVault**, **WebholeInk**, **Webhole Labs**, automation systems, defensive OSINT tools, and multi-site web infrastructure.
 
-## ⚡ **What I Do**
-- 🧩 **Build & maintain a full VPS infrastructure** (Ubuntu 24.04, Docker, Nginx Proxy Manager, UFW)
-- 🕸️ **Develop & manage multiple WordPress platforms** (custom themes, backups, migrations, automation)
-- 🤖 **Run a self-hosted AI Lab** at `labs.cliffordswebhole.com` (FastAPI, custom agents, n8n flows)
-- ☁️ **Automate content across my ecosystem** with n8n + OpenRouter
-- 🔐 **Implement strong backup & security workflows** (Bash, cron, Backblaze B2, rclone)
-- 💻 **Code daily across Linux, Android Termux, and cloud platforms**
-- 🌱 **Beekeeper & gardener — the offline part of Clifford’s Webhole**
+I specialize in blending **web development**, **Linux server engineering**, **Docker DevOps**, **security**, and **AI automation** into one connected digital ecosystem.
 
 ---
 
-## 🛠️ **Tech Stack & Tools I Use**
+## ⚡ What I Do
 
-### **Languages**
-`HTML` · `CSS` · `JavaScript` · `PHP` · `Bash` · `SQL`  
-
-### **Platforms & Systems**
-`Ubuntu 24.04` · `Docker` · `Nginx Proxy Manager` · `UFW` · `Termux`  
-
-### **Web Development**
-`WordPress` · `Custom Themes` · `WP-CLI` · `Site Migrations`  
-
-### **AI & Automation**
-`FastAPI` · `Ollama` · `OpenRouter` · `n8n` · `Custom Agents`  
-
-### **Backup / DevOps**
-`Backblaze B2` · `rclone` · `cron` · `msmtp` · `Shell scripting`  `Cloudflare`
+- 🧩 **Build & maintain self-hosted VPS infrastructure** with Ubuntu, Docker, Nginx Proxy Manager, and UFW
+- 🐍 **Develop Python + FastAPI applications** backed by PostgreSQL and other services
+- 🖋️ **Develop WebholeInk**, my open-source, database-free Markdown publishing engine
+- 🔐 **Build WebholeVault**, a privacy-first photo and video storage platform
+- 🤖 **Run Webhole Labs**, my private environment for AI agents, APIs, models, and experimentation
+- 🕵️ **Develop defensive OSINT tools** for domain, IP, username, asset, and case research
+- ☁️ **Build automation pipelines** using n8n, APIs, AI models, and custom scripts
+- 🕸️ **Develop & maintain WordPress platforms** alongside my custom applications
+- 🔒 **Implement backup & security workflows** with Bash, cron, Backblaze B2, and rclone
+- 📱 **Develop from Linux and Android Termux** and experiment with Android integrations
+- 🌱 **Beekeeper & gardener** — the offline side of Clifford’s Webhole
 
 ---
 
-## 📌 **Featured Projects**
+## 🛠️ Tech Stack & Tools
 
-### 🔹 **Clifford’s Webhole (Main Site)**  
-Your personal hub for coding, AI, security, and everything digital.
+### Languages
 
-### 🔹 **BeeBuzzGardens.com**  
-A growing beekeeping + homesteading platform with seasonal content.
+`Python` · `HTML` · `CSS` · `JavaScript` · `PHP` · `Bash` · `SQL` · `Markdown`
 
-### 🔹 **Webhole Labs (AI Playground)**  
-Your custom self-hosted AI stack experimenting with multi-agent systems.
+### Platforms & Systems
 
-### 🔹 **n8n Auto-Poster System**  
-Automated RSS → WordPress pipeline with tag + category routing.
+`Ubuntu 24.04 LTS` · `Docker` · `Docker Compose` · `Nginx Proxy Manager` · `UFW` · `Termux`
+
+### Web Development
+
+`FastAPI` · `WebholeInk` · `WordPress` · `REST APIs` · `Custom Themes` · `WP-CLI`
+
+### Databases & Storage
+
+`PostgreSQL` · `MariaDB` · `MySQL` · `Backblaze B2`
+
+### AI & Automation
+
+`Ollama` · `OpenRouter` · `n8n` · `Custom Agents` · `AI APIs`
+
+### DevOps & Infrastructure
+
+`Docker Compose` · `rclone` · `cron` · `msmtp` · `Bash` · `Cloudflare` · `GitHub Actions`
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Featured Projects
+
+### 🔐 WebholeVault
+
+A privacy-first photo and video storage platform built from the ground up using **FastAPI, PostgreSQL, Docker, and private Backblaze B2 object storage**.
+
+WebholeVault is designed around a simple philosophy:
+
+> **Your photos. Your videos. Your vault.**
+
+No public profiles.  
+No public galleries.  
+No followers.  
+No social feed.
+
+Just private media storage.
+
+---
+
+### 🖋️ WebholeInk
+
+My open-source, database-free publishing engine built around **Markdown, PHP, nginx, and the filesystem**.
+
+WebholeInk powers lightweight websites without requiring a traditional CMS database.
+
+🔗 [WebholeInk on GitHub](https://github.com/cliffordwebhole/webholeink)
+
+---
+
+### 🧪 Webhole Labs
+
+My private AI playground for experimenting with:
+
+- FastAPI
+- AI models
+- Custom agents
+- Model routing
+- APIs
+- Memory systems
+- Automation
+
+---
+
+### 🕵️ Webhole OSINT
+
+A private defensive OSINT environment for:
+
+- Domain research
+- IP research
+- Username lookup
+- Evidence management
+- Case management
+- Defensive asset auditing
+
+---
+
+### ⚙️ n8n Automation
+
+Self-hosted automation workflows connecting:
+
+`RSS → AI → APIs → Websites → WordPress → Backups`
+
+Automation is one of the central pieces connecting the Clifford's Webhole ecosystem.
+
+---
+
+### 🐝 BeeBuzzGardens
+
+My beekeeping and gardening platform covering the less digital side of the Webhole.
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cliffordwebhole&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cliffordwebhole&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/cliffordwebhole/cliffordwebhole/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/clifford-webhole/">🌐 LinkedIn</a> · 
+  <a href="https://x.com/cliffordsweb">𝕏 X</a> ·
+  <a href="https://t.me/cliffordswebhole">✈️ Telegram</a> ·
+  <a href="https://www.linkedin.com/in/clifford-webhole/">🌐 LinkedIn</a> ·
   <a href="https://youtube.com/@cliffordswebhole">📺 YouTube</a> ·
   <a href="https://www.instagram.com/cliffordswebhole">📸 Instagram</a> ·
   <a href="https://www.tiktok.com/@cliffordswebhole">🎵 TikTok</a>
 </p>
 
+<p align="center">
+  <strong>𝕏 @cliffordsweb</strong> ·
+  <strong>Telegram @cliffordswebhole</strong>
+</p>
+
 ---
+
 ## 🧭 Mission Statement
-I build reliable, self-hosted systems that connect the digital and real world.  
-My mission is to create a unified ecosystem — servers, AI agents, automations, and websites —  
-all powered by Clifford’s Webhole and always under my control.
+
+I believe the internet is a lot more interesting when you **build your own corner of it**.
+
+My goal with Clifford’s Webhole is to experiment, learn, document, and create systems that I actually control — from the server and applications all the way to the content running on them.
 
 I believe in:
-- Owning my infrastructure  
-- Automating everything  
-- Learning relentlessly  
+
+- Owning my infrastructure
+- Building instead of just consuming
+- Automating repetitive work
+- Protecting privacy
+- Learning relentlessly
+- Breaking things occasionally
+- Figuring out how to fix them
 - Sharing what I build
+
 ---
+
 ## 🔥 What I'm Working on Right Now
-- Upgrading **Webhole Labs** with faster agent routing and new model integrations  
-- Improving multi-site backups with rclone + B2 retention automation  
-- Expanding my **n8n WordPress Auto-Poster** into a full content automation pipeline  
-- Refining dark-themed web components for Clifford’s Webhole  
-- Building stronger GitHub branding and documentation for my projects
+
+- 🔐 Developing and real-world testing **WebholeVault**
+- 📱 Building Android integration for WebholeVault
+- 🖋️ Improving and expanding **WebholeInk**
+- 🧪 Experimenting with AI inside **Webhole Labs**
+- 🕵️ Building defensive tools for **Webhole OSINT**
+- 🐳 Improving Docker and VPS infrastructure
+- 💾 Expanding automated backup and disaster-recovery systems
+- ⚙️ Building n8n automation and content pipelines
+- 🔒 Improving security across the Webhole ecosystem
+- 🌐 Growing the **Clifford's Webhole** developer brand
+
 ---
+
 ## 🧠 Current Focus Areas
-- AI agents & workflow automation  
-- VPS performance tuning (Ubuntu 24.04 + Docker)  
-- WordPress architecture & custom theme development  
-- Network security and server hardening  
-- Optimizing mobile-Termux Linux workflows
+
+- Self-hosted web applications
+- Python & FastAPI development
+- AI agents & workflow automation
+- Docker architecture
+- VPS performance & reliability
+- Privacy-first storage
+- PostgreSQL
+- Network security & server hardening
+- Android & Termux development
+- Open-source software
+- Automation
+
 ---
+
 ## 🚀 Flagship Repositories
 
-### 🔹 n8n Auto Poster to WordPress
-Automates publishing from RSS feeds to WordPress, complete with category routing.
+### 🔹 WebholeInk
+
+Open-source, database-free Markdown publishing engine.
+
+🔗 [github.com/cliffordwebhole/webholeink](https://github.com/cliffordwebhole/webholeink)
+
+### 🔹 n8n Automation
+
+Self-hosted workflows connecting AI, RSS feeds, APIs, websites, and WordPress.
 
 ### 🔹 Webhole Labs
-Custom AI agent environment using FastAPI, Ollama, and OpenRouter integrations.
 
-### 🔹 Clifford’s Webhole (Main Site Theme)
-Dark, clean, custom-tailored theme powering the digital home of Clifford Webhole.
+Custom AI environment using FastAPI, Ollama, OpenRouter, and custom agents.
 
-### 🔹 BeeBuzzGardens
-Automation-ready WordPress platform for beekeeping content and seasonal posts.
+### 🔹 Clifford’s Webhole
+
+The central hub connecting my projects, experiments, infrastructure, and documentation.
 
 ---
-## 🧩 My Developer Philosophy
-- Keep it simple, but powerful  
-- Build systems that run themselves  
-- Self-hosting > depending on platforms  
-- Logs and backups are your best friends  
-- Security first — always
 
-  ---
-  ## ⚙️ Tools I Use Daily
-- **Termux** (Android Linux environment)
+## 🧩 My Developer Philosophy
+
+- Keep it simple, but powerful
+- Build systems that run themselves
+- Understand the infrastructure underneath the application
+- Self-host when it makes sense
+- Privacy should be designed in from the beginning
+- Logs and backups are your best friends
+- Never trust a backup you haven't tested
+- Security first — always
+- Keep learning
+
+---
+
+## ⚙️ Tools I Use Daily
+
+- **Linux / Ubuntu**
+- **Termux**
 - **Docker & Docker Compose**
 - **Nginx Proxy Manager**
-- **VS Code / nano / vim**
-- **Git & GitHub Actions**
+- **Python**
 - **FastAPI**
+- **PostgreSQL**
+- **Git & GitHub**
+- **nano / vim**
 - **n8n**
-- **Backblaze B2 + rclone**
+- **Backblaze B2**
+- **rclone**
+- **Bash**
+- **Cloudflare**
 
- ---
- ## 🌐 Ecosystem Architecture (Simplified)
+---
 
-Clifford's Webhole Ecosystem consists of:
+## 🌐 Ecosystem Architecture
 
-- **1 VPS running Ubuntu 24.04**
-- Multiple Docker stacks:
-  - WordPress sites
-  - Databases
-  - Webhole Labs AI stack
-  - n8n automation engine
-- **Daily backup system** (local + cloud copies)
-- **Reverse proxy routing** for all domains/subdomains
-- **Firewall-tightened network with custom rules**
-  ---
+Clifford's Webhole runs across a self-hosted infrastructure centered around an **Ubuntu 24.04 LTS VPS**.
+
+### 🖥️ Infrastructure
+
+- Ubuntu 24.04 LTS
+- Docker & Docker Compose
+- Nginx Proxy Manager
+- UFW firewall
+- Reverse proxy routing
+- Automated TLS
+- Private application networks
+
+### 🐳 Application Stacks
+
+Multiple Docker stacks power:
+
+- WebholeVault
+- Webhole OSINT
+- Webhole Labs
+- n8n
+- WordPress
+- PostgreSQL
+- MariaDB
+- Supporting services
+
+### 💾 Backup Infrastructure
+
+Automated backup workflows provide:
+
+- Nightly application backups
+- Database dumps
+- Local retention
+- Off-site Backblaze B2 storage
+- rclone transfers
+- Email backup reports
+
+### 🔐 Security
+
+The infrastructure uses:
+
+- Restricted firewall rules
+- Reverse-proxy access controls
+- Application authentication
+- Private Docker networks
+- Private object storage
+- Automated backups
+- Administrative audit controls
+
+---
+
 ## 📚 Favorite Commands & Snippets
 
-# restart docker stack
+### Restart Docker Stack
+
+```bash
 docker compose down && docker compose up -d
+```
 
-# inspect docker networks
-docker network inspect proxy-net
+### Inspect Docker Network
 
-# view logs live
+```bash
+docker network inspect web
+```
+
+### View Logs Live
+
+```bash
 docker logs -f container_name
+```
 
-# quick mysql access
-docker exec -it db-container mysql -u root -p
+### Check Running Containers
 
-# backup WordPress
-wp db export backup.sql && tar -czvf site.tar.gz /var/www/html
+```bash
+docker ps
+```
+
+### Check System Services
+
+```bash
+systemctl --failed
+```
+
+### Follow System Logs
+
+```bash
+journalctl -f
+```
+
+### Check Open Ports
+
+```bash
+sudo ss -tulpn
+```
+
+### Check Firewall
+
+```bash
+sudo ufw status
+```
+
 ---
+
 ## 🎯 Goals for 2026
-- Expand Webhole Labs with custom multi-agent routing  
-- Create a unified cross-site content engine powered by n8n  
-- Build a full set of branded Webhole utilities & scripts  
-- Develop at least one public developer tool or library  
-- Grow Clifford’s Webhole into a recognized online identity
+
+- 🔐 Launch and real-world test **WebholeVault**
+- 📱 Continue developing WebholeVault Android integration
+- 🖋️ Expand **WebholeInk**
+- 🧪 Continue developing **Webhole Labs**
+- 🕵️ Expand defensive tooling inside **Webhole OSINT**
+- ⚙️ Build more Webhole-branded utilities and scripts
+- 🤖 Expand AI and automation experimentation
+- 🔒 Build more privacy-focused and self-hosted tools
+- 🌐 Release useful open-source projects
+- 🚀 Grow **Clifford’s Webhole** into a recognizable developer identity
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111111&height=120&section=footer"/>
 </p>
+
 <p align="center">
   <sub>⚡ Powered by Clifford’s Webhole • Built on Linux • Fueled by Coffee & Curiosity</sub>
 </p>
